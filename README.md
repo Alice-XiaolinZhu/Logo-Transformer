@@ -4,7 +4,7 @@ This repository provides code corresponding to the report *Logo-Transformer for 
 
 ## Code Files
 
-Python files include:
+Python files include:  
 ```Logo_Transformer.py``` to build our proposed Logo-Transformer network;   
 ```train_logo_transformer.py``` to train Logo-Transformer based on the training set and visualize the training process;   
 ```test_logo_transformer.py``` to test model performance by presenting losses and accuracy and analysing the attention distribution;   
