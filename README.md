@@ -11,7 +11,7 @@ Python files include:
 ```generate_logo_transformer.py``` to implement logo generation inference given the required brand name and the desired style;   
 ```resize_images.py``` to resize logo images to different sizes;  
 ```process_logo_data_logo2k.py``` to cluster Logo-2K+ images into different clusters and split into training, validation and testing sets for the following experiment;  
-```cluster.py``` to run process_logo_data_logo2k.py based on a pre-defined cluster number.
+```cluster.py``` to run ```process_logo_data_logo2k.py``` based on a pre-defined cluster number.
 
 ## Dataset
 
